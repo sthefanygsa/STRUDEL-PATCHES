@@ -14,16 +14,17 @@ Esse repositório é meu espaço pra estudar sound design, testar ideias e criar
 Aqui está como tudo está organizado.  
 Cada `songX.md` é um experimento de código Strudel (strudel.cc) que você pode copiar e rodar direto.
 
+```
 STRUDEL-PATCHES/
 ├── assets/
-│ └── banner.png
+│   └── banner.png
 ├── README.md
 ├── song1.md
 ├── song2.md
 ├── song3.md
 ├── song4.md
 └── song5.md
-
+```
 ---
 
 ## 🎧 Como Rodar o Código
