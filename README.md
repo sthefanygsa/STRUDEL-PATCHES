@@ -2,17 +2,17 @@
 <img src="assets/banner.png" alt="Strudel Banner" width="100%">
 </div>
 
-Oi!  
-Aqui é onde eu guardo meus patches do Strudel Live — um mini laboratório onde eu crio sons com texturas barulhentas, darkwave, coldwave, glitch, 8-bit, dreamrave e eletrônica alternativa.
+Hi!  
+This is where I keep my Strudel Live patches — a small lab where I create noisy textures, darkwave, coldwave, glitch, 8-bit, dreamrave and alternative electronic sounds.
 
-Esse repositório é meu espaço pra estudar sound design, testar ideias e criar texturas.✦
+This repository is my space to study sound design, test ideas, and build textures. ✦
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure
 
-Aqui está como tudo está organizado.  
-Cada `songX.md` é um experimento de código Strudel (strudel.cc) que você pode copiar e rodar direto.
+Here’s how everything is organized.  
+Each `songX.md` is a Strudel (strudel.cc) code experiment you can copy and run.
 
 ```
 STRUDEL-PATCHES/
@@ -27,27 +27,27 @@ STRUDEL-PATCHES/
 ```
 ---
 
-## 🎧 Como Rodar o Código
+## 🎧 How to Run the Code
 
-Pra ouvir qualquer um dos patches, é só seguir esses passos.  
-Você **não precisa instalar nada**!
+To listen to any patch, just follow these steps.  
+You **don’t need to install anything**!
 
-### 1. Copie o código
-Abra qualquer arquivo `.md` (ex: `song1.md`) e copie tudo.
+### 1. Copy the code  
+Open any `.md` file (ex: `song1.md`) and copy everything.
 
-### 2. Abra o Strudel REPL  
-Editor oficial do Strudel:  
+### 2. Open the Strudel REPL  
+Official Strudel editor:  
 🔗 https://strudel.cc/
 
-### 3. Cole e execute
-- Apague o código que já estiver lá.  
-- Cole o código que você copiou.  
-- Para rodar:
+### 3. Paste and run  
+- Delete any code already in the editor.  
+- Paste the code you copied.  
+- To run:
 
 **Windows/Linux:** `Ctrl + Enter`  
 **Mac:** `Cmd + Enter`  
 
-A música começa na hora!  
-Pra parar, clique em **Ctrl + .** no topo da tela.
+The sound starts instantly!  
+To stop, click **Ctrl + .** at the top of the screen.
 
 ✦
