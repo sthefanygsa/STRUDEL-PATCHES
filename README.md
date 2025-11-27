@@ -50,8 +50,4 @@ Editor oficial do Strudel:
 A música começa na hora!  
 Pra parar, clique em **Ctrl + .** no topo da tela.
 
----
-
-### © Direitos Autorais
-Todo o código e conteúdo deste repositório pertence à autora.  
-Sinta-se livre para estudar, remixar e aprender, mas dê créditos quando usar. ✦
+✦
