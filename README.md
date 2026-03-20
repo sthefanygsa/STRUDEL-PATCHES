@@ -3,7 +3,7 @@
 </div>
 
 Hi!  
-This is where I keep my Strudel Live patches — a small lab where I create noisy textures, darkwave, coldwave, glitch, 8-bit, dreamrave and alternative electronic sounds.
+This is where I keep my Strudel Live patches: a small lab where I create noisy textures, darkwave, coldwave, glitch, 8-bit, dreamrave and alternative electronic sounds.
 
 This repository is my space to study sound design, test ideas, and build textures. ✦
 
@@ -50,4 +50,4 @@ Official Strudel editor:
 The sound starts instantly!  
 To stop, click **Ctrl + .** at the top of the screen.
 
-✦
+Sthefany Alves ✦
