@@ -2,10 +2,7 @@
 <img src="assets/banner.png" alt="Strudel Banner" width="100%">
 </div>
 
-Hi!  
-This is where I keep my Strudel Live patches: a small lab where I create noisy textures, darkwave, coldwave, glitch, 8-bit, dreamrave and alternative electronic sounds.
-
-This repository is my space to study sound design, test ideas, and build textures. ✦
+Hi! This is where I keep my Strudel Live Patches: A personal archive of studies, ideas and noisy experiments in live-coded music. ✦
 
 ---
 
