@@ -1,12 +1,14 @@
 <div align="center">
-<img src="assets/airpods.png" alt="airpods" width="200">
+<img src="assets/cd2.png" alt="cd2" width="150">
 </div>
 
+<div align="center">
 Hi! This is where I keep my Strudel Live Patches: A personal archive of studies, ideas and noisy experiments in live-coded music. ✦
+</div>
 
 ---
 
-## <img src="assets/folder.png" width="22" height="22" valign="middle"> Repository Structure
+## <img src="assets/folder3.png" width="50" height="50" valign="middle"> REPOSITORY STRUCTURE
 
 Here’s how everything is organized.  
 Each `songX.md` is a Strudel (strudel.cc) code experiment you can copy and run.
@@ -24,10 +26,9 @@ STRUDEL-PATCHES/
 ```
 ---
 
-## 🎧 How to Run the Code
+## <img src="assets/folder3.png" width="50" height="50" valign="middle"> HOW TO RUN THE CODE
 
 To listen to any patch, just follow these steps.  
-You **don’t need to install anything**!
 
 ### 1. Copy the code  
 Open any `.md` file (ex: `song1.md`) and copy everything.
@@ -47,4 +48,5 @@ Official Strudel editor:
 The sound starts instantly!  
 To stop, click **Ctrl + .** at the top of the screen.
 
-Sthefany Alves ✦
+---
+### Sthefany Alves ✦ <img src="assets/cd2.png" width="40" height="40" valign="middle"> 
