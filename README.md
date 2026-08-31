@@ -1,12 +1,12 @@
 <div align="center">
-<img src="assets/banner.png" alt="Strudel Banner" width="100%">
+<img src="assets/airpods.png" alt="airpods" width="200">
 </div>
 
 Hi! This is where I keep my Strudel Live Patches: A personal archive of studies, ideas and noisy experiments in live-coded music. ✦
 
 ---
 
-## 📂 Repository Structure
+## <img src="assets/folder.png" width="22" height="22" valign="middle"> Repository Structure
 
 Here’s how everything is organized.  
 Each `songX.md` is a Strudel (strudel.cc) code experiment you can copy and run.
